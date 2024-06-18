@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1638215309 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\main.cpp
+	"HourlyEmployee.h"
+	"SalariedEmployee.h"
+	"ComissionedEmployee.h"
+
+1638215247 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\employee.cpp
+	"Employee.h"
+
+1638215901 c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\employee.h
+	<iostream>
+	"Payable.h"
+
+1638215872 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\hourlyemployee.cpp
+	"HourlyEmployee.h"
+
+1638215606 c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\hourlyemployee.h
+	"Employee.h"
+
+1638215606 c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\salariedemployee.h
+	"Employee.h"
+
+1638215424 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\salariedemployee.cpp
+	"SalariedEmployee.h"
+
+1638215606 c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\comissionedemployee.h
+	"Employee.h"
+
+1638215424 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\comissionedemployee.cpp
+	"ComissionedEmployee.h"
+
+1638132629 c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 5\assignment 5\payable.h
+
+1718715801 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\comissionedemployee.cpp
+	"ComissionedEmployee.h"
+
+1718715698 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\comissionedemployee.h
+	"Employee.h"
+
+1718715632 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\employee.h
+	<iostream>
+	"Payable.h"
+
+1638136229 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\payable.h
+
+1718715515 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\employee.cpp
+	"Employee.h"
+
+1718715680 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\hourlyemployee.cpp
+	"HourlyEmployee.h"
+
+1718715636 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\hourlyemployee.h
+	"Employee.h"
+
+1638315979 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\main.cpp
+	"HourlyEmployee.h"
+	"SalariedEmployee.h"
+	"ComissionedEmployee.h"
+
+1718715639 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\salariedemployee.h
+	"Employee.h"
+
+1718715718 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\5. abstraction\source code\salariedemployee.cpp
+	"SalariedEmployee.h"
+

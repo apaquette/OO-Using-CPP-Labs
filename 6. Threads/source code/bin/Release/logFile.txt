@@ -1,0 +1,45 @@
+2024-06-18 02:07:34	starting up	Front Door
+2024-06-18 02:07:34	Simulated Event	Front Door
+2024-06-18 02:07:34	starting up	Refrigerator
+2024-06-18 02:07:34	Simulated Event	Refrigerator
+2024-06-18 02:07:34	starting up	Win Cellar
+2024-06-18 02:07:34	Simulated Event	Win Cellar
+2024-06-18 02:07:34	starting up	Cat Room
+2024-06-18 02:07:34	Simulated Event	Cat Room
+2024-06-18 02:07:34	starting up	Game Room
+2024-06-18 02:07:34	Simulated Event	Game Room
+2024-06-18 02:07:35	Simulated Event	Win Cellar
+2024-06-18 02:07:35	Simulated Event	Front Door
+2024-06-18 02:07:35	Simulated Event	Game Room
+2024-06-18 02:07:35	Simulated Event	Refrigerator
+2024-06-18 02:07:35	Simulated Event	Cat Room
+2024-06-18 02:07:35	Simulated Event	Front Door
+2024-06-18 02:07:35	Simulated Event	Win Cellar
+2024-06-18 02:07:35	Simulated Event	Game Room
+2024-06-18 02:07:35	Simulated Event	Refrigerator
+2024-06-18 02:07:35	Simulated Event	Cat Room
+2024-06-18 02:07:36	Simulated Event	Refrigerator
+2024-06-18 02:07:36	Simulated Event	Win Cellar
+2024-06-18 02:07:36	Simulated Event	Front Door
+2024-06-18 02:07:36	Simulated Event	Cat Room
+2024-06-18 02:07:36	Simulated Event	Game Room
+2024-06-18 02:07:38	Simulated Event	Win Cellar
+2024-06-18 02:07:38	Simulated Event	Front Door
+2024-06-18 02:07:38	Simulated Event	Refrigerator
+2024-06-18 02:07:38	Simulated Event	Game Room
+2024-06-18 02:07:38	Simulated Event	Cat Room
+2024-06-18 02:07:38	Simulated Event	Cat Room
+2024-06-18 02:07:38	Simulated Event	Game Room
+2024-06-18 02:07:38	Simulated Event	Front Door
+2024-06-18 02:07:38	Simulated Event	Refrigerator
+2024-06-18 02:07:38	Simulated Event	Win Cellar
+2024-06-18 02:07:38	Simulated Event	Game Room
+2024-06-18 02:07:38	Simulated Event	Front Door
+2024-06-18 02:07:38	Simulated Event	Cat Room
+2024-06-18 02:07:38	Simulated Event	Refrigerator
+2024-06-18 02:07:38	Simulated Event	Win Cellar
+2024-06-18 02:07:38	Shutting Down	Front Door
+2024-06-18 02:07:38	Shutting Down	Cat Room
+2024-06-18 02:07:38	Shutting Down	Game Room
+2024-06-18 02:07:38	Shutting Down	Refrigerator
+2024-06-18 02:07:38	Shutting Down	Win Cellar

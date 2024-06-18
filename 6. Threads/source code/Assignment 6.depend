@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1638483368 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignments\assignment 6\assignment 6\main.cpp
+	"SecuritySystem.h"
+	<fstream>
+	<thread>
+
+1638483475 c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignments\assignment 6\assignment 6\securitysystem.h
+	<iostream>
+	<fstream>
+
+1638482958 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignments\assignment 6\assignment 6\securitysystem.cpp
+	"SecuritySystem.h"
+	<stdio.h>
+	<time.h>
+	<cstdlib>
+	<thread>
+	<chrono>
+	<mutex>
+	<string>
+

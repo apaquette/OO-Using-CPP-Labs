@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1637701886 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 4\assignment 4\inputmanagement.cpp
+	"InputManagement.h"
+	<limits>
+
+1637705990 c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 4\assignment 4\inputmanagement.h
+	<iostream>
+
+1637720065 source:c:\users\alexa\onedrive - canadore college\year 2\cis262 - oo software dev using c++\assignment\assignment 4\assignment 4\main.cpp
+	<iostream>
+	<vector>
+	"InputManagement.h"
+
+1637705486 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\4. multi-dimensional arrays\source code\inputmanagement.cpp
+	"InputManagement.h"
+	<limits>
+
+1637726122 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\4. multi-dimensional arrays\source code\inputmanagement.h
+	<iostream>
+

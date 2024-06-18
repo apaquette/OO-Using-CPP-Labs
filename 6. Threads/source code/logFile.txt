@@ -1,0 +1,65 @@
+2021-12-02 05:22:12	starting up	Front Door
+2021-12-02 05:22:12	Simulated Event	Front Door
+2021-12-02 05:22:12	starting up	Refrigerator
+2021-12-02 05:22:12	Simulated Event	Refrigerator
+2021-12-02 05:22:12	starting up	Win Cellar
+2021-12-02 05:22:12	Simulated Event	Win Cellar
+2021-12-02 05:22:12	starting up	Cat Room
+2021-12-02 05:22:12	Simulated Event	Cat Room
+2021-12-02 05:22:12	starting up	Game Room
+2021-12-02 05:22:12	Simulated Event	Game Room
+2021-12-02 05:22:12	Simulated Event	Cat Room
+2021-12-02 05:22:12	Simulated Event	Refrigerator
+2021-12-02 05:22:12	Simulated Event	Win Cellar
+2021-12-02 05:22:12	Simulated Event	Game Room
+2021-12-02 05:22:12	Simulated Event	Front Door
+2021-12-02 05:22:13	Simulated Event	Refrigerator
+2021-12-02 05:22:13	Simulated Event	Win Cellar
+2021-12-02 05:22:13	Simulated Event	Game Room
+2021-12-02 05:22:13	Simulated Event	Cat Room
+2021-12-02 05:22:13	Simulated Event	Front Door
+2021-12-02 05:22:13	Simulated Event	Front Door
+2021-12-02 05:22:13	Simulated Event	Game Room
+2021-12-02 05:22:13	Simulated Event	Cat Room
+2021-12-02 05:22:13	Simulated Event	Refrigerator
+2021-12-02 05:22:13	Simulated Event	Win Cellar
+2021-12-02 05:22:14	Simulated Event	Front Door
+2021-12-02 05:22:14	Simulated Event	Win Cellar
+2021-12-02 05:22:14	Simulated Event	Refrigerator
+2021-12-02 05:22:14	Simulated Event	Cat Room
+2021-12-02 05:22:14	Simulated Event	Game Room
+2021-12-02 05:22:14	Simulated Event	Win Cellar
+2021-12-02 05:22:14	Simulated Event	Cat Room
+2021-12-02 05:22:14	Simulated Event	Front Door
+2021-12-02 05:22:14	Simulated Event	Game Room
+2021-12-02 05:22:14	Simulated Event	Refrigerator
+2021-12-02 05:22:15	Simulated Event	Cat Room
+2021-12-02 05:22:15	Simulated Event	Refrigerator
+2021-12-02 05:22:15	Simulated Event	Front Door
+2021-12-02 05:22:15	Simulated Event	Game Room
+2021-12-02 05:22:15	Simulated Event	Win Cellar
+2021-12-02 05:22:15	Simulated Event	Win Cellar
+2021-12-02 05:22:15	Simulated Event	Refrigerator
+2021-12-02 05:22:15	Simulated Event	Game Room
+2021-12-02 05:22:15	Simulated Event	Front Door
+2021-12-02 05:22:15	Simulated Event	Cat Room
+2021-12-02 05:22:16	Simulated Event	Cat Room
+2021-12-02 05:22:16	Simulated Event	Front Door
+2021-12-02 05:22:16	Simulated Event	Game Room
+2021-12-02 05:22:16	Simulated Event	Refrigerator
+2021-12-02 05:22:16	Simulated Event	Win Cellar
+2021-12-02 05:22:18	Simulated Event	Cat Room
+2021-12-02 05:22:18	Simulated Event	Game Room
+2021-12-02 05:22:18	Simulated Event	Refrigerator
+2021-12-02 05:22:18	Simulated Event	Front Door
+2021-12-02 05:22:18	Simulated Event	Win Cellar
+2021-12-02 05:22:19	Simulated Event	Cat Room
+2021-12-02 05:22:19	Simulated Event	Game Room
+2021-12-02 05:22:19	Simulated Event	Refrigerator
+2021-12-02 05:22:19	Simulated Event	Front Door
+2021-12-02 05:22:19	Simulated Event	Win Cellar
+2021-12-02 05:22:21	Shutting Down	Win Cellar
+2021-12-02 05:22:21	Shutting Down	Refrigerator
+2021-12-02 05:22:21	Shutting Down	Game Room
+2021-12-02 05:22:21	Shutting Down	Front Door
+2021-12-02 05:22:21	Shutting Down	Cat Room

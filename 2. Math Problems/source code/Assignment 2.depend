@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1632859909 source:c:\users\alexa\onedrive\documents\canadore\year 2\oo software dev using c++\assignment\assignment 2\assignment 2\fraction.cpp
+	"Fraction.h"
+
+1632860752 c:\users\alexa\onedrive\documents\canadore\year 2\oo software dev using c++\assignment\assignment 2\assignment 2\fraction.h
+	<iostream>
+
+1632860904 source:c:\users\alexa\onedrive\documents\canadore\year 2\oo software dev using c++\assignment\assignment 2\assignment 2\main.cpp
+	<iostream>
+	"Fraction.h"
+	"MathProblem.h"
+	"DoublingMathProblem.h"
+
+1632860752 c:\users\alexa\onedrive\documents\canadore\year 2\oo software dev using c++\assignment\assignment 2\assignment 2\mathproblem.h
+	"Fraction.h"
+
+1632860715 source:c:\users\alexa\onedrive\documents\canadore\year 2\oo software dev using c++\assignment\assignment 2\assignment 2\mathproblem.cpp
+	"MathProblem.h"
+
+1632860918 c:\users\alexa\onedrive\documents\canadore\year 2\oo software dev using c++\assignment\assignment 2\assignment 2\doublingmathproblem.h
+	"MathProblem.h"
+
+1632860901 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\assignment 2\assignment 2\doublingmathproblem.cpp
+	"DoublingMathProblem.h"
+
+1632860918 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\assignment 2\assignment 2\doublingmathproblem.h
+	"MathProblem.h"
+
+1632860752 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\assignment 2\assignment 2\mathproblem.h
+	"Fraction.h"
+
+1632860752 d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\assignment 2\assignment 2\fraction.h
+	<iostream>
+
+1718714655 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\assignment 2\assignment 2\main.cpp
+	<iostream>
+	"Fraction.h"
+	"MathProblem.h"
+	"DoublingMathProblem.h"
+
+1632860715 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\assignment 2\assignment 2\mathproblem.cpp
+	"MathProblem.h"
+
+1718714564 source:d:\canadore college\year 2\semester 3\cis262 - oo software dev using c++\assignments\assignment 2\assignment 2\fraction.cpp
+	"Fraction.h"
+
